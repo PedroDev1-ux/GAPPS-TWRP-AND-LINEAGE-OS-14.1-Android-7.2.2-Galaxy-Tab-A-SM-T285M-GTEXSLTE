@@ -1,0 +1,1 @@
+# LINEAGE-OS-14.1-Android-7.2.2-Galaxy-Tab-A-SM-T285M-GTEXSLTE
