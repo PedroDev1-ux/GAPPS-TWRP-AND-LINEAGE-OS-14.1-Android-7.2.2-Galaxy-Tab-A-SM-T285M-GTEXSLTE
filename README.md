@@ -28,3 +28,8 @@
 ## 🐛 Bugs Conhecidos / Estado do Sistema
 - [x] CÂMERA/GRAVAÇÃO DE VÍDEO 
 - [x] Bluetooth crashar do nada
+
+---
+
+### 📜 Créditos
+- ROM e TWRP desenvolvidos originalmente pela comunidade XDA (re-hospedado aqui para preservação e facilidade de acesso).
